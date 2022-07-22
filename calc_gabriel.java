@@ -32,7 +32,7 @@ public class calc_gabriel implements ActionListener{
         root.setSize(400, 585);
         root.setResizable(false);
 
-        icon = new ImageIcon("/home/gabriel/projects/java/calculator_java/Logo transparan.png");
+        icon = new ImageIcon("/home/gabriel/projects/java/workspace/gcalc_java/Logo transparan.png");
 
         layar = new JTextField();
         layar.setBounds(25, 25, 350, 50);
